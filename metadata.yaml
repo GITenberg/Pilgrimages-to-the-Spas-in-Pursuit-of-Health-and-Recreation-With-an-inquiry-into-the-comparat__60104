@@ -1,11 +1,16 @@
 _repo: Pilgrimages-to-the-Spas-in-Pursuit-of-Health-and-Recreation-With-an-inquiry-into-the-comparat__60104
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60104-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, James
     gutenberg_agent_id: '3711'
     url: http://www.gutenberg.org/2009/agents/3711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60104#Pilgrimages-to-the-Spas-in-Pursuit-of-Health-and-Recreation-With-an-inquiry-into-the-comparat_
 gutenberg_issued: '2019-08-15'
 gutenberg_type: Text
 identifiers:
